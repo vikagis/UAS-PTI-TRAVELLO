@@ -1,0 +1,42 @@
+export { default as padangImage } from './Image/City/padang.jpg';
+export { default as satePadangImage } from './Image/sate-padang.jpg';
+export { default as dendengImage } from './Image/dendeng.jpg';
+export { default as rendangImage } from './Image/rendang.jpg';
+export { default as lontongSayurImage } from './Image/lontongsayur.jpg';
+export { default as pantaiAirManisImage } from './Image/pantai-air-manis.jpg';
+export { default as pulauPasumpahanImage } from './Image/pasumpahan.jpg';
+export { default as bajuKurungImage } from './Image/adatpadang.jpg';
+export { default as tengkulukImage } from './Image/tengkuluk.jpg';
+export { default as ayamPopImage } from './Image/ayampoppadang.jpg';
+export { default as museumPadangImage } from './Image/museumpadang.jpg';
+
+export { default as palembangImage } from './Image/City/palembang.jpg';
+export { default as gulaiItiakImage } from './Image/gulai-itiak.jpg';
+export { default as lompongSaguImage } from './Image/lompong-sagu.jpg';
+export { default as jembatanAmperaImage } from './Image/jembatanampera.jpg';
+export { default as museumSmb2Image } from './Image/museumSmb2.jpg';
+export { default as limpapehImage } from './Image/limpapeh.png';
+export { default as bajuKuruangImage } from './Image/adatpalembang.jpg';
+export { default as pempekImage } from './Image/pempek.jpg';
+export { default as tekwanImage } from './Image/tekwan.jpg';
+export { default as pulauKemaroImage } from './Image/pulaukemaro.jpg';
+export { default as bentengKutoBesakImage } from './Image/bentengkutobesak.jpg';
+
+export { default as lampungImage } from './Image/City/lampung.jpg';
+export { default as salaLauakImage } from './Image/sala-lauak.jpeg';
+export { default as gulaiKapaloLauakImage } from './Image/gulai-kapalo-lauak.jpg';
+export { default as pantaiGandoriahImage } from './Image/pantai-gandoriah.jpg';
+export { default as pulauAngsoDuoImage } from './Image/pulau-angso-duo.jpeg';
+export { default as bajuKurungBasibaImage } from './Image/saibatin.jpg';
+export { default as tengkulukLampungImage } from './Image/tengkuluk.jpg';
+export { default as keripikPisangImage } from './Image/keripikpisang.jpg';
+export { default as engkakImage } from './Image/engkak.jpg';
+export { default as wayKambasImage } from './Image/waykambas.jpg';
+export { default as pantaiHiuImage } from './Image/pantaihiu.jpg';
+
+export { default as homeBackground } from './Image/Home/Home.jpg';
+export { default as logo } from './Image/logo.png';
+export { default as wayang } from './Image/wayang2.png';
+export { default as vikaa } from './Image/vikaa.jpg';
+export { default as alya } from './Image/alya.jpg';
+export { default as cal } from './Image/cal.jpg';
